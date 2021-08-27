@@ -1,0 +1,30 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 8rem;
+  background-color: #9e7777;
+}
+.bg0 {
+  background-color: #f5e8c7;
+}
+
+.bg {
+  background-color: #9e7777;
+  padding: 0%;
+}
+
+h2 {
+  margin-bottom: 2rem;
+}
+
+.card-body {
+  height: 7rem;
+}
+#about {
+  padding: 5rem;
+}
+#gallery {
+  padding: 3rem;
+}
+#contact {
+  padding: 5rem;
+}
